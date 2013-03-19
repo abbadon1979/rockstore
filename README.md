@@ -1,0 +1,4 @@
+rockstore
+=========
+
+Spree Openshift Rockstore
